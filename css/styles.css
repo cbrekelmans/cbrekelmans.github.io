@@ -14,9 +14,10 @@ h1, h3, p {
 	margin-top: 8px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #3382C9;
+	background-color: #8AC1F1;
 	font-size: large;
 	color: #000000;
+	border-radius: 10px;
 }
 
 .image-fill {
@@ -46,4 +47,10 @@ nav {
 }
 .emaillink {
 	color: #000000;
+}
+.robinson {
+	text-align: left;
+}
+
+.robinson {
 }
